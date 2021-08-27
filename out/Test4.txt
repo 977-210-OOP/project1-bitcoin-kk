@@ -1,0 +1,5 @@
+Mining: Block: timestamp 1000, prevHash 0
+Pass checkpoint 1
+Mining: Block: timestamp 1000, prevHash 8888
+Pass checkpoint 2
+All good!

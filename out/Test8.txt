@@ -1,0 +1,7 @@
+Pass checkpoint 1
+Pass checkpoint 2
+Pass checkpoint 3
+Pass checkpoint 4
+Pass checkpoint 5
+Pass checkpoint 6
+All good!

@@ -1,0 +1,6 @@
+Timestamp: 123456
+Previous block's hash: 0
+Timestamp: 39812
+Previous block's hash: 982193125
+Timestamp: 123
+Previous block's hash: 111111

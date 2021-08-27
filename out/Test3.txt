@@ -1,0 +1,24 @@
+Block's timestamp: 1000
+Block's prevHash: 0
+TX at index 0 : Transaction from 123456 to 7890 amount 1
+TX at index 1 : Transaction from 123457 to 7891 amount 2
+TX at index 2 : Transaction from 123458 to 7892 amount 3
+TX at index 3 : Transaction from 123459 to 7893 amount 4
+TX at index 4 : Transaction from 123460 to 7894 amount 5
+TX at index 5 : Transaction from 123461 to 7895 amount 6
+TX at index 6 : Transaction from 123462 to 7896 amount 7
+TX at index 7 : Transaction from 123463 to 7897 amount 8
+TX at index 8 : Transaction from 123464 to 7898 amount 9
+TX at index 9 : Transaction from 123465 to 7899 amount 10
+Block's timestamp: 12345
+Block's prevHash: 5555
+TX at index 0 : Transaction from 28888704 to 1846260 amount 234
+TX at index 1 : Transaction from 28888705 to 1846261 amount 235
+TX at index 2 : Transaction from 28888706 to 1846262 amount 236
+TX at index 3 : Transaction from 28888707 to 1846263 amount 237
+TX at index 4 : Transaction from 28888708 to 1846264 amount 238
+TX at index 5 : Transaction from 28888709 to 1846265 amount 239
+TX at index 6 : Transaction from 28888710 to 1846266 amount 240
+TX at index 7 : Transaction from 28888711 to 1846267 amount 241
+TX at index 8 : Transaction from 28888712 to 1846268 amount 242
+TX at index 9 : Transaction from 28888713 to 1846269 amount 243

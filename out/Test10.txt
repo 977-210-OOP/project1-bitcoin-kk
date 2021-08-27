@@ -1,0 +1,1309 @@
+Succesfully mining block 0
+Block content: Block: timestamp 189821506, prevHash 0, nonce 13151, hash -9223179161528432378
+ Transaction from 0 to 0 amount 0
+ Transaction from 1 to 1 amount 123
+ Transaction from 2 to 2 amount 246
+ Transaction from 3 to 3 amount 369
+ Transaction from 4 to 4 amount 492
+ Transaction from 5 to 5 amount 615
+ Transaction from 6 to 6 amount 738
+ Transaction from 7 to 7 amount 861
+ Transaction from 8 to 8 amount 984
+ Transaction from 9 to 9 amount 1107
+
+Succesfully mining block 1
+Block content: Block: timestamp 189821507, prevHash -9223179161528432378, nonce 143558, hash -9223165396603804851
+ Transaction from 12345 to 5321 amount 1
+ Transaction from 12346 to 5322 amount 124
+ Transaction from 12347 to 5323 amount 247
+ Transaction from 12348 to 5324 amount 370
+ Transaction from 12349 to 5325 amount 493
+ Transaction from 12350 to 5326 amount 616
+ Transaction from 12351 to 5327 amount 739
+ Transaction from 12352 to 5328 amount 862
+ Transaction from 12353 to 5329 amount 985
+ Transaction from 12354 to 5330 amount 1108
+
+Succesfully mining block 2
+Block content: Block: timestamp 189821508, prevHash -9223165396603804851, nonce 156875, hash -9223351853757345823
+ Transaction from 24690 to 10642 amount 2
+ Transaction from 24691 to 10643 amount 125
+ Transaction from 24692 to 10644 amount 248
+ Transaction from 24693 to 10645 amount 371
+ Transaction from 24694 to 10646 amount 494
+ Transaction from 24695 to 10647 amount 617
+ Transaction from 24696 to 10648 amount 740
+ Transaction from 24697 to 10649 amount 863
+ Transaction from 24698 to 10650 amount 986
+ Transaction from 24699 to 10651 amount 1109
+
+Succesfully mining block 3
+Block content: Block: timestamp 189821509, prevHash -9223351853757345823, nonce 36836, hash -9223345202086906219
+ Transaction from 37035 to 15963 amount 3
+ Transaction from 37036 to 15964 amount 126
+ Transaction from 37037 to 15965 amount 249
+ Transaction from 37038 to 15966 amount 372
+ Transaction from 37039 to 15967 amount 495
+ Transaction from 37040 to 15968 amount 618
+ Transaction from 37041 to 15969 amount 741
+ Transaction from 37042 to 15970 amount 864
+ Transaction from 37043 to 15971 amount 987
+ Transaction from 37044 to 15972 amount 1110
+
+Succesfully mining block 4
+Block content: Block: timestamp 189821510, prevHash -9223345202086906219, nonce 29415, hash -9223326454596420771
+ Transaction from 49380 to 21284 amount 4
+ Transaction from 49381 to 21285 amount 127
+ Transaction from 49382 to 21286 amount 250
+ Transaction from 49383 to 21287 amount 373
+ Transaction from 49384 to 21288 amount 496
+ Transaction from 49385 to 21289 amount 619
+ Transaction from 49386 to 21290 amount 742
+ Transaction from 49387 to 21291 amount 865
+ Transaction from 49388 to 21292 amount 988
+ Transaction from 49389 to 21293 amount 1111
+
+Succesfully mining block 5
+Block content: Block: timestamp 189821511, prevHash -9223326454596420771, nonce 53206, hash -9223109210379120309
+ Transaction from 61725 to 26605 amount 5
+ Transaction from 61726 to 26606 amount 128
+ Transaction from 61727 to 26607 amount 251
+ Transaction from 61728 to 26608 amount 374
+ Transaction from 61729 to 26609 amount 497
+ Transaction from 61730 to 26610 amount 620
+ Transaction from 61731 to 26611 amount 743
+ Transaction from 61732 to 26612 amount 866
+ Transaction from 61733 to 26613 amount 989
+ Transaction from 61734 to 26614 amount 1112
+
+Succesfully mining block 6
+Block content: Block: timestamp 189821512, prevHash -9223109210379120309, nonce 31156, hash -9223169053375328845
+ Transaction from 74070 to 31926 amount 6
+ Transaction from 74071 to 31927 amount 129
+ Transaction from 74072 to 31928 amount 252
+ Transaction from 74073 to 31929 amount 375
+ Transaction from 74074 to 31930 amount 498
+ Transaction from 74075 to 31931 amount 621
+ Transaction from 74076 to 31932 amount 744
+ Transaction from 74077 to 31933 amount 867
+ Transaction from 74078 to 31934 amount 990
+ Transaction from 74079 to 31935 amount 1113
+
+Succesfully mining block 7
+Block content: Block: timestamp 189821513, prevHash -9223169053375328845, nonce 21057, hash -9223213411289000708
+ Transaction from 86415 to 37247 amount 7
+ Transaction from 86416 to 37248 amount 130
+ Transaction from 86417 to 37249 amount 253
+ Transaction from 86418 to 37250 amount 376
+ Transaction from 86419 to 37251 amount 499
+ Transaction from 86420 to 37252 amount 622
+ Transaction from 86421 to 37253 amount 745
+ Transaction from 86422 to 37254 amount 868
+ Transaction from 86423 to 37255 amount 991
+ Transaction from 86424 to 37256 amount 1114
+
+Succesfully mining block 8
+Block content: Block: timestamp 189821514, prevHash -9223213411289000708, nonce 9868, hash -9223186203694682788
+ Transaction from 98760 to 42568 amount 8
+ Transaction from 98761 to 42569 amount 131
+ Transaction from 98762 to 42570 amount 254
+ Transaction from 98763 to 42571 amount 377
+ Transaction from 98764 to 42572 amount 500
+ Transaction from 98765 to 42573 amount 623
+ Transaction from 98766 to 42574 amount 746
+ Transaction from 98767 to 42575 amount 869
+ Transaction from 98768 to 42576 amount 992
+ Transaction from 98769 to 42577 amount 1115
+
+Succesfully mining block 9
+Block content: Block: timestamp 189821515, prevHash -9223186203694682788, nonce 93122, hash -9223155393987198618
+ Transaction from 111105 to 47889 amount 9
+ Transaction from 111106 to 47890 amount 132
+ Transaction from 111107 to 47891 amount 255
+ Transaction from 111108 to 47892 amount 378
+ Transaction from 111109 to 47893 amount 501
+ Transaction from 111110 to 47894 amount 624
+ Transaction from 111111 to 47895 amount 747
+ Transaction from 111112 to 47896 amount 870
+ Transaction from 111113 to 47897 amount 993
+ Transaction from 111114 to 47898 amount 1116
+
+Succesfully mining block 10
+Block content: Block: timestamp 189821516, prevHash -9223155393987198618, nonce 150, hash -9223179133386550465
+ Transaction from 123450 to 53210 amount 10
+ Transaction from 123451 to 53211 amount 133
+ Transaction from 123452 to 53212 amount 256
+ Transaction from 123453 to 53213 amount 379
+ Transaction from 123454 to 53214 amount 502
+ Transaction from 123455 to 53215 amount 625
+ Transaction from 123456 to 53216 amount 748
+ Transaction from 123457 to 53217 amount 871
+ Transaction from 123458 to 53218 amount 994
+ Transaction from 123459 to 53219 amount 1117
+
+Succesfully mining block 11
+Block content: Block: timestamp 189821517, prevHash -9223179133386550465, nonce 9382, hash -9223249793387058093
+ Transaction from 135795 to 58531 amount 11
+ Transaction from 135796 to 58532 amount 134
+ Transaction from 135797 to 58533 amount 257
+ Transaction from 135798 to 58534 amount 380
+ Transaction from 135799 to 58535 amount 503
+ Transaction from 135800 to 58536 amount 626
+ Transaction from 135801 to 58537 amount 749
+ Transaction from 135802 to 58538 amount 872
+ Transaction from 135803 to 58539 amount 995
+ Transaction from 135804 to 58540 amount 1118
+
+Succesfully mining block 12
+Block content: Block: timestamp 189821518, prevHash -9223249793387058093, nonce 64276, hash -9223208641514888563
+ Transaction from 148140 to 63852 amount 12
+ Transaction from 148141 to 63853 amount 135
+ Transaction from 148142 to 63854 amount 258
+ Transaction from 148143 to 63855 amount 381
+ Transaction from 148144 to 63856 amount 504
+ Transaction from 148145 to 63857 amount 627
+ Transaction from 148146 to 63858 amount 750
+ Transaction from 148147 to 63859 amount 873
+ Transaction from 148148 to 63860 amount 996
+ Transaction from 148149 to 63861 amount 1119
+
+Succesfully mining block 13
+Block content: Block: timestamp 189821519, prevHash -9223208641514888563, nonce 54972, hash -9223334249152610550
+ Transaction from 160485 to 69173 amount 13
+ Transaction from 160486 to 69174 amount 136
+ Transaction from 160487 to 69175 amount 259
+ Transaction from 160488 to 69176 amount 382
+ Transaction from 160489 to 69177 amount 505
+ Transaction from 160490 to 69178 amount 628
+ Transaction from 160491 to 69179 amount 751
+ Transaction from 160492 to 69180 amount 874
+ Transaction from 160493 to 69181 amount 997
+ Transaction from 160494 to 69182 amount 1120
+
+Succesfully mining block 14
+Block content: Block: timestamp 189821520, prevHash -9223334249152610550, nonce 40984, hash -9223250550783219813
+ Transaction from 172830 to 74494 amount 14
+ Transaction from 172831 to 74495 amount 137
+ Transaction from 172832 to 74496 amount 260
+ Transaction from 172833 to 74497 amount 383
+ Transaction from 172834 to 74498 amount 506
+ Transaction from 172835 to 74499 amount 629
+ Transaction from 172836 to 74500 amount 752
+ Transaction from 172837 to 74501 amount 875
+ Transaction from 172838 to 74502 amount 998
+ Transaction from 172839 to 74503 amount 1121
+
+Succesfully mining block 15
+Block content: Block: timestamp 189821521, prevHash -9223250550783219813, nonce 12809, hash -9223272823300841409
+ Transaction from 185175 to 79815 amount 15
+ Transaction from 185176 to 79816 amount 138
+ Transaction from 185177 to 79817 amount 261
+ Transaction from 185178 to 79818 amount 384
+ Transaction from 185179 to 79819 amount 507
+ Transaction from 185180 to 79820 amount 630
+ Transaction from 185181 to 79821 amount 753
+ Transaction from 185182 to 79822 amount 876
+ Transaction from 185183 to 79823 amount 999
+ Transaction from 185184 to 79824 amount 1122
+
+Succesfully mining block 16
+Block content: Block: timestamp 189821522, prevHash -9223272823300841409, nonce 12547, hash -9223195505006291838
+ Transaction from 197520 to 85136 amount 16
+ Transaction from 197521 to 85137 amount 139
+ Transaction from 197522 to 85138 amount 262
+ Transaction from 197523 to 85139 amount 385
+ Transaction from 197524 to 85140 amount 508
+ Transaction from 197525 to 85141 amount 631
+ Transaction from 197526 to 85142 amount 754
+ Transaction from 197527 to 85143 amount 877
+ Transaction from 197528 to 85144 amount 1000
+ Transaction from 197529 to 85145 amount 1123
+
+Succesfully mining block 17
+Block content: Block: timestamp 189821523, prevHash -9223195505006291838, nonce 30422, hash -9223200078153696381
+ Transaction from 209865 to 90457 amount 17
+ Transaction from 209866 to 90458 amount 140
+ Transaction from 209867 to 90459 amount 263
+ Transaction from 209868 to 90460 amount 386
+ Transaction from 209869 to 90461 amount 509
+ Transaction from 209870 to 90462 amount 632
+ Transaction from 209871 to 90463 amount 755
+ Transaction from 209872 to 90464 amount 878
+ Transaction from 209873 to 90465 amount 1001
+ Transaction from 209874 to 90466 amount 1124
+
+Succesfully mining block 18
+Block content: Block: timestamp 189821524, prevHash -9223200078153696381, nonce 1917, hash -9223273636447879676
+ Transaction from 222210 to 95778 amount 18
+ Transaction from 222211 to 95779 amount 141
+ Transaction from 222212 to 95780 amount 264
+ Transaction from 222213 to 95781 amount 387
+ Transaction from 222214 to 95782 amount 510
+ Transaction from 222215 to 95783 amount 633
+ Transaction from 222216 to 95784 amount 756
+ Transaction from 222217 to 95785 amount 879
+ Transaction from 222218 to 95786 amount 1002
+ Transaction from 222219 to 95787 amount 1125
+
+Succesfully mining block 19
+Block content: Block: timestamp 189821525, prevHash -9223273636447879676, nonce 111827, hash -9223334128406496419
+ Transaction from 234555 to 101099 amount 19
+ Transaction from 234556 to 101100 amount 142
+ Transaction from 234557 to 101101 amount 265
+ Transaction from 234558 to 101102 amount 388
+ Transaction from 234559 to 101103 amount 511
+ Transaction from 234560 to 101104 amount 634
+ Transaction from 234561 to 101105 amount 757
+ Transaction from 234562 to 101106 amount 880
+ Transaction from 234563 to 101107 amount 1003
+ Transaction from 234564 to 101108 amount 1126
+
+Succesfully mining block 20
+Block content: Block: timestamp 189821526, prevHash -9223334128406496419, nonce 125235, hash -9223169053477410066
+ Transaction from 246900 to 106420 amount 20
+ Transaction from 246901 to 106421 amount 143
+ Transaction from 246902 to 106422 amount 266
+ Transaction from 246903 to 106423 amount 389
+ Transaction from 246904 to 106424 amount 512
+ Transaction from 246905 to 106425 amount 635
+ Transaction from 246906 to 106426 amount 758
+ Transaction from 246907 to 106427 amount 881
+ Transaction from 246908 to 106428 amount 1004
+ Transaction from 246909 to 106429 amount 1127
+
+Succesfully mining block 21
+Block content: Block: timestamp 189821527, prevHash -9223169053477410066, nonce 12186, hash -9223110396036368181
+ Transaction from 259245 to 111741 amount 21
+ Transaction from 259246 to 111742 amount 144
+ Transaction from 259247 to 111743 amount 267
+ Transaction from 259248 to 111744 amount 390
+ Transaction from 259249 to 111745 amount 513
+ Transaction from 259250 to 111746 amount 636
+ Transaction from 259251 to 111747 amount 759
+ Transaction from 259252 to 111748 amount 882
+ Transaction from 259253 to 111749 amount 1005
+ Transaction from 259254 to 111750 amount 1128
+
+Succesfully mining block 22
+Block content: Block: timestamp 189821528, prevHash -9223110396036368181, nonce 26660, hash -9223227054669647522
+ Transaction from 271590 to 117062 amount 22
+ Transaction from 271591 to 117063 amount 145
+ Transaction from 271592 to 117064 amount 268
+ Transaction from 271593 to 117065 amount 391
+ Transaction from 271594 to 117066 amount 514
+ Transaction from 271595 to 117067 amount 637
+ Transaction from 271596 to 117068 amount 760
+ Transaction from 271597 to 117069 amount 883
+ Transaction from 271598 to 117070 amount 1006
+ Transaction from 271599 to 117071 amount 1129
+
+Succesfully mining block 23
+Block content: Block: timestamp 189821529, prevHash -9223227054669647522, nonce 4616, hash -9223212215546769488
+ Transaction from 283935 to 122383 amount 23
+ Transaction from 283936 to 122384 amount 146
+ Transaction from 283937 to 122385 amount 269
+ Transaction from 283938 to 122386 amount 392
+ Transaction from 283939 to 122387 amount 515
+ Transaction from 283940 to 122388 amount 638
+ Transaction from 283941 to 122389 amount 761
+ Transaction from 283942 to 122390 amount 884
+ Transaction from 283943 to 122391 amount 1007
+ Transaction from 283944 to 122392 amount 1130
+
+Succesfully mining block 24
+Block content: Block: timestamp 189821530, prevHash -9223212215546769488, nonce 274129, hash -9223312271461138978
+ Transaction from 296280 to 127704 amount 24
+ Transaction from 296281 to 127705 amount 147
+ Transaction from 296282 to 127706 amount 270
+ Transaction from 296283 to 127707 amount 393
+ Transaction from 296284 to 127708 amount 516
+ Transaction from 296285 to 127709 amount 639
+ Transaction from 296286 to 127710 amount 762
+ Transaction from 296287 to 127711 amount 885
+ Transaction from 296288 to 127712 amount 1008
+ Transaction from 296289 to 127713 amount 1131
+
+Succesfully mining block 25
+Block content: Block: timestamp 189821531, prevHash -9223312271461138978, nonce 17895, hash -9223128058874783874
+ Transaction from 308625 to 133025 amount 25
+ Transaction from 308626 to 133026 amount 148
+ Transaction from 308627 to 133027 amount 271
+ Transaction from 308628 to 133028 amount 394
+ Transaction from 308629 to 133029 amount 517
+ Transaction from 308630 to 133030 amount 640
+ Transaction from 308631 to 133031 amount 763
+ Transaction from 308632 to 133032 amount 886
+ Transaction from 308633 to 133033 amount 1009
+ Transaction from 308634 to 133034 amount 1132
+
+Succesfully mining block 26
+Block content: Block: timestamp 189821532, prevHash -9223128058874783874, nonce 106253, hash -9223256350181049905
+ Transaction from 320970 to 138346 amount 26
+ Transaction from 320971 to 138347 amount 149
+ Transaction from 320972 to 138348 amount 272
+ Transaction from 320973 to 138349 amount 395
+ Transaction from 320974 to 138350 amount 518
+ Transaction from 320975 to 138351 amount 641
+ Transaction from 320976 to 138352 amount 764
+ Transaction from 320977 to 138353 amount 887
+ Transaction from 320978 to 138354 amount 1010
+ Transaction from 320979 to 138355 amount 1133
+
+Succesfully mining block 27
+Block content: Block: timestamp 189821533, prevHash -9223256350181049905, nonce 62116, hash -9223272682467997289
+ Transaction from 333315 to 143667 amount 27
+ Transaction from 333316 to 143668 amount 150
+ Transaction from 333317 to 143669 amount 273
+ Transaction from 333318 to 143670 amount 396
+ Transaction from 333319 to 143671 amount 519
+ Transaction from 333320 to 143672 amount 642
+ Transaction from 333321 to 143673 amount 765
+ Transaction from 333322 to 143674 amount 888
+ Transaction from 333323 to 143675 amount 1011
+ Transaction from 333324 to 143676 amount 1134
+
+Succesfully mining block 28
+Block content: Block: timestamp 189821534, prevHash -9223272682467997289, nonce 114532, hash -9223318768510862340
+ Transaction from 345660 to 148988 amount 28
+ Transaction from 345661 to 148989 amount 151
+ Transaction from 345662 to 148990 amount 274
+ Transaction from 345663 to 148991 amount 397
+ Transaction from 345664 to 148992 amount 520
+ Transaction from 345665 to 148993 amount 643
+ Transaction from 345666 to 148994 amount 766
+ Transaction from 345667 to 148995 amount 889
+ Transaction from 345668 to 148996 amount 1012
+ Transaction from 345669 to 148997 amount 1135
+
+Succesfully mining block 29
+Block content: Block: timestamp 189821535, prevHash -9223318768510862340, nonce 121016, hash -9223336393125332197
+ Transaction from 358005 to 154309 amount 29
+ Transaction from 358006 to 154310 amount 152
+ Transaction from 358007 to 154311 amount 275
+ Transaction from 358008 to 154312 amount 398
+ Transaction from 358009 to 154313 amount 521
+ Transaction from 358010 to 154314 amount 644
+ Transaction from 358011 to 154315 amount 767
+ Transaction from 358012 to 154316 amount 890
+ Transaction from 358013 to 154317 amount 1013
+ Transaction from 358014 to 154318 amount 1136
+
+Succesfully mining block 30
+Block content: Block: timestamp 189821536, prevHash -9223336393125332197, nonce 278634, hash -9223258556029107989
+ Transaction from 370350 to 159630 amount 30
+ Transaction from 370351 to 159631 amount 153
+ Transaction from 370352 to 159632 amount 276
+ Transaction from 370353 to 159633 amount 399
+ Transaction from 370354 to 159634 amount 522
+ Transaction from 370355 to 159635 amount 645
+ Transaction from 370356 to 159636 amount 768
+ Transaction from 370357 to 159637 amount 891
+ Transaction from 370358 to 159638 amount 1014
+ Transaction from 370359 to 159639 amount 1137
+
+Succesfully mining block 31
+Block content: Block: timestamp 189821537, prevHash -9223258556029107989, nonce 3008, hash -9223304549149259231
+ Transaction from 382695 to 164951 amount 31
+ Transaction from 382696 to 164952 amount 154
+ Transaction from 382697 to 164953 amount 277
+ Transaction from 382698 to 164954 amount 400
+ Transaction from 382699 to 164955 amount 523
+ Transaction from 382700 to 164956 amount 646
+ Transaction from 382701 to 164957 amount 769
+ Transaction from 382702 to 164958 amount 892
+ Transaction from 382703 to 164959 amount 1015
+ Transaction from 382704 to 164960 amount 1138
+
+Succesfully mining block 32
+Block content: Block: timestamp 189821538, prevHash -9223304549149259231, nonce 68684, hash -9223261876631855542
+ Transaction from 395040 to 170272 amount 32
+ Transaction from 395041 to 170273 amount 155
+ Transaction from 395042 to 170274 amount 278
+ Transaction from 395043 to 170275 amount 401
+ Transaction from 395044 to 170276 amount 524
+ Transaction from 395045 to 170277 amount 647
+ Transaction from 395046 to 170278 amount 770
+ Transaction from 395047 to 170279 amount 893
+ Transaction from 395048 to 170280 amount 1016
+ Transaction from 395049 to 170281 amount 1139
+
+Succesfully mining block 33
+Block content: Block: timestamp 189821539, prevHash -9223261876631855542, nonce 104092, hash -9223233717395035540
+ Transaction from 407385 to 175593 amount 33
+ Transaction from 407386 to 175594 amount 156
+ Transaction from 407387 to 175595 amount 279
+ Transaction from 407388 to 175596 amount 402
+ Transaction from 407389 to 175597 amount 525
+ Transaction from 407390 to 175598 amount 648
+ Transaction from 407391 to 175599 amount 771
+ Transaction from 407392 to 175600 amount 894
+ Transaction from 407393 to 175601 amount 1017
+ Transaction from 407394 to 175602 amount 1140
+
+Succesfully mining block 34
+Block content: Block: timestamp 189821540, prevHash -9223233717395035540, nonce 25315, hash -9223159281743354361
+ Transaction from 419730 to 180914 amount 34
+ Transaction from 419731 to 180915 amount 157
+ Transaction from 419732 to 180916 amount 280
+ Transaction from 419733 to 180917 amount 403
+ Transaction from 419734 to 180918 amount 526
+ Transaction from 419735 to 180919 amount 649
+ Transaction from 419736 to 180920 amount 772
+ Transaction from 419737 to 180921 amount 895
+ Transaction from 419738 to 180922 amount 1018
+ Transaction from 419739 to 180923 amount 1141
+
+Succesfully mining block 35
+Block content: Block: timestamp 189821541, prevHash -9223159281743354361, nonce 78855, hash -9223174366614517834
+ Transaction from 432075 to 186235 amount 35
+ Transaction from 432076 to 186236 amount 158
+ Transaction from 432077 to 186237 amount 281
+ Transaction from 432078 to 186238 amount 404
+ Transaction from 432079 to 186239 amount 527
+ Transaction from 432080 to 186240 amount 650
+ Transaction from 432081 to 186241 amount 773
+ Transaction from 432082 to 186242 amount 896
+ Transaction from 432083 to 186243 amount 1019
+ Transaction from 432084 to 186244 amount 1142
+
+Succesfully mining block 36
+Block content: Block: timestamp 189821542, prevHash -9223174366614517834, nonce 30887, hash -9223314442832879770
+ Transaction from 444420 to 191556 amount 36
+ Transaction from 444421 to 191557 amount 159
+ Transaction from 444422 to 191558 amount 282
+ Transaction from 444423 to 191559 amount 405
+ Transaction from 444424 to 191560 amount 528
+ Transaction from 444425 to 191561 amount 651
+ Transaction from 444426 to 191562 amount 774
+ Transaction from 444427 to 191563 amount 897
+ Transaction from 444428 to 191564 amount 1020
+ Transaction from 444429 to 191565 amount 1143
+
+Succesfully mining block 37
+Block content: Block: timestamp 189821543, prevHash -9223314442832879770, nonce 105378, hash -9223134952231358836
+ Transaction from 456765 to 196877 amount 37
+ Transaction from 456766 to 196878 amount 160
+ Transaction from 456767 to 196879 amount 283
+ Transaction from 456768 to 196880 amount 406
+ Transaction from 456769 to 196881 amount 529
+ Transaction from 456770 to 196882 amount 652
+ Transaction from 456771 to 196883 amount 775
+ Transaction from 456772 to 196884 amount 898
+ Transaction from 456773 to 196885 amount 1021
+ Transaction from 456774 to 196886 amount 1144
+
+Succesfully mining block 38
+Block content: Block: timestamp 189821544, prevHash -9223134952231358836, nonce 67829, hash -9223118710001327292
+ Transaction from 469110 to 202198 amount 38
+ Transaction from 469111 to 202199 amount 161
+ Transaction from 469112 to 202200 amount 284
+ Transaction from 469113 to 202201 amount 407
+ Transaction from 469114 to 202202 amount 530
+ Transaction from 469115 to 202203 amount 653
+ Transaction from 469116 to 202204 amount 776
+ Transaction from 469117 to 202205 amount 899
+ Transaction from 469118 to 202206 amount 1022
+ Transaction from 469119 to 202207 amount 1145
+
+Succesfully mining block 39
+Block content: Block: timestamp 189821545, prevHash -9223118710001327292, nonce 114756, hash -9223233270069069683
+ Transaction from 481455 to 207519 amount 39
+ Transaction from 481456 to 207520 amount 162
+ Transaction from 481457 to 207521 amount 285
+ Transaction from 481458 to 207522 amount 408
+ Transaction from 481459 to 207523 amount 531
+ Transaction from 481460 to 207524 amount 654
+ Transaction from 481461 to 207525 amount 777
+ Transaction from 481462 to 207526 amount 900
+ Transaction from 481463 to 207527 amount 1023
+ Transaction from 481464 to 207528 amount 1146
+
+Succesfully mining block 40
+Block content: Block: timestamp 189821546, prevHash -9223233270069069683, nonce 13696, hash -9223329754899563563
+ Transaction from 493800 to 212840 amount 40
+ Transaction from 493801 to 212841 amount 163
+ Transaction from 493802 to 212842 amount 286
+ Transaction from 493803 to 212843 amount 409
+ Transaction from 493804 to 212844 amount 532
+ Transaction from 493805 to 212845 amount 655
+ Transaction from 493806 to 212846 amount 778
+ Transaction from 493807 to 212847 amount 901
+ Transaction from 493808 to 212848 amount 1024
+ Transaction from 493809 to 212849 amount 1147
+
+Succesfully mining block 41
+Block content: Block: timestamp 189821547, prevHash -9223329754899563563, nonce 72036, hash -9223319909200302672
+ Transaction from 506145 to 218161 amount 41
+ Transaction from 506146 to 218162 amount 164
+ Transaction from 506147 to 218163 amount 287
+ Transaction from 506148 to 218164 amount 410
+ Transaction from 506149 to 218165 amount 533
+ Transaction from 506150 to 218166 amount 656
+ Transaction from 506151 to 218167 amount 779
+ Transaction from 506152 to 218168 amount 902
+ Transaction from 506153 to 218169 amount 1025
+ Transaction from 506154 to 218170 amount 1148
+
+Succesfully mining block 42
+Block content: Block: timestamp 189821548, prevHash -9223319909200302672, nonce 30488, hash -9223208866338462388
+ Transaction from 518490 to 223482 amount 42
+ Transaction from 518491 to 223483 amount 165
+ Transaction from 518492 to 223484 amount 288
+ Transaction from 518493 to 223485 amount 411
+ Transaction from 518494 to 223486 amount 534
+ Transaction from 518495 to 223487 amount 657
+ Transaction from 518496 to 223488 amount 780
+ Transaction from 518497 to 223489 amount 903
+ Transaction from 518498 to 223490 amount 1026
+ Transaction from 518499 to 223491 amount 1149
+
+Succesfully mining block 43
+Block content: Block: timestamp 189821549, prevHash -9223208866338462388, nonce 1343, hash -9223116650994278068
+ Transaction from 530835 to 228803 amount 43
+ Transaction from 530836 to 228804 amount 166
+ Transaction from 530837 to 228805 amount 289
+ Transaction from 530838 to 228806 amount 412
+ Transaction from 530839 to 228807 amount 535
+ Transaction from 530840 to 228808 amount 658
+ Transaction from 530841 to 228809 amount 781
+ Transaction from 530842 to 228810 amount 904
+ Transaction from 530843 to 228811 amount 1027
+ Transaction from 530844 to 228812 amount 1150
+
+Succesfully mining block 44
+Block content: Block: timestamp 189821550, prevHash -9223116650994278068, nonce 85790, hash -9223324111505108434
+ Transaction from 543180 to 234124 amount 44
+ Transaction from 543181 to 234125 amount 167
+ Transaction from 543182 to 234126 amount 290
+ Transaction from 543183 to 234127 amount 413
+ Transaction from 543184 to 234128 amount 536
+ Transaction from 543185 to 234129 amount 659
+ Transaction from 543186 to 234130 amount 782
+ Transaction from 543187 to 234131 amount 905
+ Transaction from 543188 to 234132 amount 1028
+ Transaction from 543189 to 234133 amount 1151
+
+Succesfully mining block 45
+Block content: Block: timestamp 189821551, prevHash -9223324111505108434, nonce 90166, hash -9223323390836183889
+ Transaction from 555525 to 239445 amount 45
+ Transaction from 555526 to 239446 amount 168
+ Transaction from 555527 to 239447 amount 291
+ Transaction from 555528 to 239448 amount 414
+ Transaction from 555529 to 239449 amount 537
+ Transaction from 555530 to 239450 amount 660
+ Transaction from 555531 to 239451 amount 783
+ Transaction from 555532 to 239452 amount 906
+ Transaction from 555533 to 239453 amount 1029
+ Transaction from 555534 to 239454 amount 1152
+
+Succesfully mining block 46
+Block content: Block: timestamp 189821552, prevHash -9223323390836183889, nonce 21533, hash -9223315810889933817
+ Transaction from 567870 to 244766 amount 46
+ Transaction from 567871 to 244767 amount 169
+ Transaction from 567872 to 244768 amount 292
+ Transaction from 567873 to 244769 amount 415
+ Transaction from 567874 to 244770 amount 538
+ Transaction from 567875 to 244771 amount 661
+ Transaction from 567876 to 244772 amount 784
+ Transaction from 567877 to 244773 amount 907
+ Transaction from 567878 to 244774 amount 1030
+ Transaction from 567879 to 244775 amount 1153
+
+Succesfully mining block 47
+Block content: Block: timestamp 189821553, prevHash -9223315810889933817, nonce 19091, hash -9223258456367963975
+ Transaction from 580215 to 250087 amount 47
+ Transaction from 580216 to 250088 amount 170
+ Transaction from 580217 to 250089 amount 293
+ Transaction from 580218 to 250090 amount 416
+ Transaction from 580219 to 250091 amount 539
+ Transaction from 580220 to 250092 amount 662
+ Transaction from 580221 to 250093 amount 785
+ Transaction from 580222 to 250094 amount 908
+ Transaction from 580223 to 250095 amount 1031
+ Transaction from 580224 to 250096 amount 1154
+
+Succesfully mining block 48
+Block content: Block: timestamp 189821554, prevHash -9223258456367963975, nonce 55568, hash -9223345278630198361
+ Transaction from 592560 to 255408 amount 48
+ Transaction from 592561 to 255409 amount 171
+ Transaction from 592562 to 255410 amount 294
+ Transaction from 592563 to 255411 amount 417
+ Transaction from 592564 to 255412 amount 540
+ Transaction from 592565 to 255413 amount 663
+ Transaction from 592566 to 255414 amount 786
+ Transaction from 592567 to 255415 amount 909
+ Transaction from 592568 to 255416 amount 1032
+ Transaction from 592569 to 255417 amount 1155
+
+Succesfully mining block 49
+Block content: Block: timestamp 189821555, prevHash -9223345278630198361, nonce 205906, hash -9223135856577825922
+ Transaction from 604905 to 260729 amount 49
+ Transaction from 604906 to 260730 amount 172
+ Transaction from 604907 to 260731 amount 295
+ Transaction from 604908 to 260732 amount 418
+ Transaction from 604909 to 260733 amount 541
+ Transaction from 604910 to 260734 amount 664
+ Transaction from 604911 to 260735 amount 787
+ Transaction from 604912 to 260736 amount 910
+ Transaction from 604913 to 260737 amount 1033
+ Transaction from 604914 to 260738 amount 1156
+
+Succesfully mining block 50
+Block content: Block: timestamp 189821556, prevHash -9223135856577825922, nonce 33281, hash -9223275486256856816
+ Transaction from 617250 to 266050 amount 50
+ Transaction from 617251 to 266051 amount 173
+ Transaction from 617252 to 266052 amount 296
+ Transaction from 617253 to 266053 amount 419
+ Transaction from 617254 to 266054 amount 542
+ Transaction from 617255 to 266055 amount 665
+ Transaction from 617256 to 266056 amount 788
+ Transaction from 617257 to 266057 amount 911
+ Transaction from 617258 to 266058 amount 1034
+ Transaction from 617259 to 266059 amount 1157
+
+Succesfully mining block 51
+Block content: Block: timestamp 189821557, prevHash -9223275486256856816, nonce 197351, hash -9223278991872938401
+ Transaction from 629595 to 271371 amount 51
+ Transaction from 629596 to 271372 amount 174
+ Transaction from 629597 to 271373 amount 297
+ Transaction from 629598 to 271374 amount 420
+ Transaction from 629599 to 271375 amount 543
+ Transaction from 629600 to 271376 amount 666
+ Transaction from 629601 to 271377 amount 789
+ Transaction from 629602 to 271378 amount 912
+ Transaction from 629603 to 271379 amount 1035
+ Transaction from 629604 to 271380 amount 1158
+
+Succesfully mining block 52
+Block content: Block: timestamp 189821558, prevHash -9223278991872938401, nonce 114039, hash -9223284454139913287
+ Transaction from 641940 to 276692 amount 52
+ Transaction from 641941 to 276693 amount 175
+ Transaction from 641942 to 276694 amount 298
+ Transaction from 641943 to 276695 amount 421
+ Transaction from 641944 to 276696 amount 544
+ Transaction from 641945 to 276697 amount 667
+ Transaction from 641946 to 276698 amount 790
+ Transaction from 641947 to 276699 amount 913
+ Transaction from 641948 to 276700 amount 1036
+ Transaction from 641949 to 276701 amount 1159
+
+Succesfully mining block 53
+Block content: Block: timestamp 189821559, prevHash -9223284454139913287, nonce 67164, hash -9223371294609652919
+ Transaction from 654285 to 282013 amount 53
+ Transaction from 654286 to 282014 amount 176
+ Transaction from 654287 to 282015 amount 299
+ Transaction from 654288 to 282016 amount 422
+ Transaction from 654289 to 282017 amount 545
+ Transaction from 654290 to 282018 amount 668
+ Transaction from 654291 to 282019 amount 791
+ Transaction from 654292 to 282020 amount 914
+ Transaction from 654293 to 282021 amount 1037
+ Transaction from 654294 to 282022 amount 1160
+
+Succesfully mining block 54
+Block content: Block: timestamp 189821560, prevHash -9223371294609652919, nonce 194259, hash -9223275742014519413
+ Transaction from 666630 to 287334 amount 54
+ Transaction from 666631 to 287335 amount 177
+ Transaction from 666632 to 287336 amount 300
+ Transaction from 666633 to 287337 amount 423
+ Transaction from 666634 to 287338 amount 546
+ Transaction from 666635 to 287339 amount 669
+ Transaction from 666636 to 287340 amount 792
+ Transaction from 666637 to 287341 amount 915
+ Transaction from 666638 to 287342 amount 1038
+ Transaction from 666639 to 287343 amount 1161
+
+Succesfully mining block 55
+Block content: Block: timestamp 189821561, prevHash -9223275742014519413, nonce 305227, hash -9223210084945868660
+ Transaction from 678975 to 292655 amount 55
+ Transaction from 678976 to 292656 amount 178
+ Transaction from 678977 to 292657 amount 301
+ Transaction from 678978 to 292658 amount 424
+ Transaction from 678979 to 292659 amount 547
+ Transaction from 678980 to 292660 amount 670
+ Transaction from 678981 to 292661 amount 793
+ Transaction from 678982 to 292662 amount 916
+ Transaction from 678983 to 292663 amount 1039
+ Transaction from 678984 to 292664 amount 1162
+
+Succesfully mining block 56
+Block content: Block: timestamp 189821562, prevHash -9223210084945868660, nonce 153937, hash -9223369332655469751
+ Transaction from 691320 to 297976 amount 56
+ Transaction from 691321 to 297977 amount 179
+ Transaction from 691322 to 297978 amount 302
+ Transaction from 691323 to 297979 amount 425
+ Transaction from 691324 to 297980 amount 548
+ Transaction from 691325 to 297981 amount 671
+ Transaction from 691326 to 297982 amount 794
+ Transaction from 691327 to 297983 amount 917
+ Transaction from 691328 to 297984 amount 1040
+ Transaction from 691329 to 297985 amount 1163
+
+Succesfully mining block 57
+Block content: Block: timestamp 189821563, prevHash -9223369332655469751, nonce 23160, hash -9223231664379669765
+ Transaction from 703665 to 303297 amount 57
+ Transaction from 703666 to 303298 amount 180
+ Transaction from 703667 to 303299 amount 303
+ Transaction from 703668 to 303300 amount 426
+ Transaction from 703669 to 303301 amount 549
+ Transaction from 703670 to 303302 amount 672
+ Transaction from 703671 to 303303 amount 795
+ Transaction from 703672 to 303304 amount 918
+ Transaction from 703673 to 303305 amount 1041
+ Transaction from 703674 to 303306 amount 1164
+
+Succesfully mining block 58
+Block content: Block: timestamp 189821564, prevHash -9223231664379669765, nonce 26209, hash -9223243859175468049
+ Transaction from 716010 to 308618 amount 58
+ Transaction from 716011 to 308619 amount 181
+ Transaction from 716012 to 308620 amount 304
+ Transaction from 716013 to 308621 amount 427
+ Transaction from 716014 to 308622 amount 550
+ Transaction from 716015 to 308623 amount 673
+ Transaction from 716016 to 308624 amount 796
+ Transaction from 716017 to 308625 amount 919
+ Transaction from 716018 to 308626 amount 1042
+ Transaction from 716019 to 308627 amount 1165
+
+Succesfully mining block 59
+Block content: Block: timestamp 189821565, prevHash -9223243859175468049, nonce 210824, hash -9223266692521008409
+ Transaction from 728355 to 313939 amount 59
+ Transaction from 728356 to 313940 amount 182
+ Transaction from 728357 to 313941 amount 305
+ Transaction from 728358 to 313942 amount 428
+ Transaction from 728359 to 313943 amount 551
+ Transaction from 728360 to 313944 amount 674
+ Transaction from 728361 to 313945 amount 797
+ Transaction from 728362 to 313946 amount 920
+ Transaction from 728363 to 313947 amount 1043
+ Transaction from 728364 to 313948 amount 1166
+
+Succesfully mining block 60
+Block content: Block: timestamp 189821566, prevHash -9223266692521008409, nonce 132796, hash -9223245672330308847
+ Transaction from 740700 to 319260 amount 60
+ Transaction from 740701 to 319261 amount 183
+ Transaction from 740702 to 319262 amount 306
+ Transaction from 740703 to 319263 amount 429
+ Transaction from 740704 to 319264 amount 552
+ Transaction from 740705 to 319265 amount 675
+ Transaction from 740706 to 319266 amount 798
+ Transaction from 740707 to 319267 amount 921
+ Transaction from 740708 to 319268 amount 1044
+ Transaction from 740709 to 319269 amount 1167
+
+Succesfully mining block 61
+Block content: Block: timestamp 189821567, prevHash -9223245672330308847, nonce 124687, hash -9223293956820655416
+ Transaction from 753045 to 324581 amount 61
+ Transaction from 753046 to 324582 amount 184
+ Transaction from 753047 to 324583 amount 307
+ Transaction from 753048 to 324584 amount 430
+ Transaction from 753049 to 324585 amount 553
+ Transaction from 753050 to 324586 amount 676
+ Transaction from 753051 to 324587 amount 799
+ Transaction from 753052 to 324588 amount 922
+ Transaction from 753053 to 324589 amount 1045
+ Transaction from 753054 to 324590 amount 1168
+
+Succesfully mining block 62
+Block content: Block: timestamp 189821568, prevHash -9223293956820655416, nonce 45034, hash -9223283714765562730
+ Transaction from 765390 to 329902 amount 62
+ Transaction from 765391 to 329903 amount 185
+ Transaction from 765392 to 329904 amount 308
+ Transaction from 765393 to 329905 amount 431
+ Transaction from 765394 to 329906 amount 554
+ Transaction from 765395 to 329907 amount 677
+ Transaction from 765396 to 329908 amount 800
+ Transaction from 765397 to 329909 amount 923
+ Transaction from 765398 to 329910 amount 1046
+ Transaction from 765399 to 329911 amount 1169
+
+Succesfully mining block 63
+Block content: Block: timestamp 189821569, prevHash -9223283714765562730, nonce 181713, hash -9223345783298054483
+ Transaction from 777735 to 335223 amount 63
+ Transaction from 777736 to 335224 amount 186
+ Transaction from 777737 to 335225 amount 309
+ Transaction from 777738 to 335226 amount 432
+ Transaction from 777739 to 335227 amount 555
+ Transaction from 777740 to 335228 amount 678
+ Transaction from 777741 to 335229 amount 801
+ Transaction from 777742 to 335230 amount 924
+ Transaction from 777743 to 335231 amount 1047
+ Transaction from 777744 to 335232 amount 1170
+
+Succesfully mining block 64
+Block content: Block: timestamp 189821570, prevHash -9223345783298054483, nonce 48138, hash -9223307165461975595
+ Transaction from 790080 to 340544 amount 64
+ Transaction from 790081 to 340545 amount 187
+ Transaction from 790082 to 340546 amount 310
+ Transaction from 790083 to 340547 amount 433
+ Transaction from 790084 to 340548 amount 556
+ Transaction from 790085 to 340549 amount 679
+ Transaction from 790086 to 340550 amount 802
+ Transaction from 790087 to 340551 amount 925
+ Transaction from 790088 to 340552 amount 1048
+ Transaction from 790089 to 340553 amount 1171
+
+Succesfully mining block 65
+Block content: Block: timestamp 189821571, prevHash -9223307165461975595, nonce 32642, hash -9223364410300954720
+ Transaction from 802425 to 345865 amount 65
+ Transaction from 802426 to 345866 amount 188
+ Transaction from 802427 to 345867 amount 311
+ Transaction from 802428 to 345868 amount 434
+ Transaction from 802429 to 345869 amount 557
+ Transaction from 802430 to 345870 amount 680
+ Transaction from 802431 to 345871 amount 803
+ Transaction from 802432 to 345872 amount 926
+ Transaction from 802433 to 345873 amount 1049
+ Transaction from 802434 to 345874 amount 1172
+
+Succesfully mining block 66
+Block content: Block: timestamp 189821572, prevHash -9223364410300954720, nonce 18104, hash -9223254373526078004
+ Transaction from 814770 to 351186 amount 66
+ Transaction from 814771 to 351187 amount 189
+ Transaction from 814772 to 351188 amount 312
+ Transaction from 814773 to 351189 amount 435
+ Transaction from 814774 to 351190 amount 558
+ Transaction from 814775 to 351191 amount 681
+ Transaction from 814776 to 351192 amount 804
+ Transaction from 814777 to 351193 amount 927
+ Transaction from 814778 to 351194 amount 1050
+ Transaction from 814779 to 351195 amount 1173
+
+Succesfully mining block 67
+Block content: Block: timestamp 189821573, prevHash -9223254373526078004, nonce 21308, hash -9223308877069056910
+ Transaction from 827115 to 356507 amount 67
+ Transaction from 827116 to 356508 amount 190
+ Transaction from 827117 to 356509 amount 313
+ Transaction from 827118 to 356510 amount 436
+ Transaction from 827119 to 356511 amount 559
+ Transaction from 827120 to 356512 amount 682
+ Transaction from 827121 to 356513 amount 805
+ Transaction from 827122 to 356514 amount 928
+ Transaction from 827123 to 356515 amount 1051
+ Transaction from 827124 to 356516 amount 1174
+
+Succesfully mining block 68
+Block content: Block: timestamp 189821574, prevHash -9223308877069056910, nonce 897, hash -9223159514746189751
+ Transaction from 839460 to 361828 amount 68
+ Transaction from 839461 to 361829 amount 191
+ Transaction from 839462 to 361830 amount 314
+ Transaction from 839463 to 361831 amount 437
+ Transaction from 839464 to 361832 amount 560
+ Transaction from 839465 to 361833 amount 683
+ Transaction from 839466 to 361834 amount 806
+ Transaction from 839467 to 361835 amount 929
+ Transaction from 839468 to 361836 amount 1052
+ Transaction from 839469 to 361837 amount 1175
+
+Succesfully mining block 69
+Block content: Block: timestamp 189821575, prevHash -9223159514746189751, nonce 106235, hash -9223220669848139842
+ Transaction from 851805 to 367149 amount 69
+ Transaction from 851806 to 367150 amount 192
+ Transaction from 851807 to 367151 amount 315
+ Transaction from 851808 to 367152 amount 438
+ Transaction from 851809 to 367153 amount 561
+ Transaction from 851810 to 367154 amount 684
+ Transaction from 851811 to 367155 amount 807
+ Transaction from 851812 to 367156 amount 930
+ Transaction from 851813 to 367157 amount 1053
+ Transaction from 851814 to 367158 amount 1176
+
+Succesfully mining block 70
+Block content: Block: timestamp 189821576, prevHash -9223220669848139842, nonce 7868, hash -9223176245884520750
+ Transaction from 864150 to 372470 amount 70
+ Transaction from 864151 to 372471 amount 193
+ Transaction from 864152 to 372472 amount 316
+ Transaction from 864153 to 372473 amount 439
+ Transaction from 864154 to 372474 amount 562
+ Transaction from 864155 to 372475 amount 685
+ Transaction from 864156 to 372476 amount 808
+ Transaction from 864157 to 372477 amount 931
+ Transaction from 864158 to 372478 amount 1054
+ Transaction from 864159 to 372479 amount 1177
+
+Succesfully mining block 71
+Block content: Block: timestamp 189821577, prevHash -9223176245884520750, nonce 159600, hash -9223195835126372790
+ Transaction from 876495 to 377791 amount 71
+ Transaction from 876496 to 377792 amount 194
+ Transaction from 876497 to 377793 amount 317
+ Transaction from 876498 to 377794 amount 440
+ Transaction from 876499 to 377795 amount 563
+ Transaction from 876500 to 377796 amount 686
+ Transaction from 876501 to 377797 amount 809
+ Transaction from 876502 to 377798 amount 932
+ Transaction from 876503 to 377799 amount 1055
+ Transaction from 876504 to 377800 amount 1178
+
+Succesfully mining block 72
+Block content: Block: timestamp 189821578, prevHash -9223195835126372790, nonce 45764, hash -9223312399582101689
+ Transaction from 888840 to 383112 amount 72
+ Transaction from 888841 to 383113 amount 195
+ Transaction from 888842 to 383114 amount 318
+ Transaction from 888843 to 383115 amount 441
+ Transaction from 888844 to 383116 amount 564
+ Transaction from 888845 to 383117 amount 687
+ Transaction from 888846 to 383118 amount 810
+ Transaction from 888847 to 383119 amount 933
+ Transaction from 888848 to 383120 amount 1056
+ Transaction from 888849 to 383121 amount 1179
+
+Succesfully mining block 73
+Block content: Block: timestamp 189821579, prevHash -9223312399582101689, nonce 3783, hash -9223148326748164035
+ Transaction from 901185 to 388433 amount 73
+ Transaction from 901186 to 388434 amount 196
+ Transaction from 901187 to 388435 amount 319
+ Transaction from 901188 to 388436 amount 442
+ Transaction from 901189 to 388437 amount 565
+ Transaction from 901190 to 388438 amount 688
+ Transaction from 901191 to 388439 amount 811
+ Transaction from 901192 to 388440 amount 934
+ Transaction from 901193 to 388441 amount 1057
+ Transaction from 901194 to 388442 amount 1180
+
+Succesfully mining block 74
+Block content: Block: timestamp 189821580, prevHash -9223148326748164035, nonce 58848, hash -9223227681980543700
+ Transaction from 913530 to 393754 amount 74
+ Transaction from 913531 to 393755 amount 197
+ Transaction from 913532 to 393756 amount 320
+ Transaction from 913533 to 393757 amount 443
+ Transaction from 913534 to 393758 amount 566
+ Transaction from 913535 to 393759 amount 689
+ Transaction from 913536 to 393760 amount 812
+ Transaction from 913537 to 393761 amount 935
+ Transaction from 913538 to 393762 amount 1058
+ Transaction from 913539 to 393763 amount 1181
+
+Succesfully mining block 75
+Block content: Block: timestamp 189821581, prevHash -9223227681980543700, nonce 123294, hash -9223141058926734465
+ Transaction from 925875 to 399075 amount 75
+ Transaction from 925876 to 399076 amount 198
+ Transaction from 925877 to 399077 amount 321
+ Transaction from 925878 to 399078 amount 444
+ Transaction from 925879 to 399079 amount 567
+ Transaction from 925880 to 399080 amount 690
+ Transaction from 925881 to 399081 amount 813
+ Transaction from 925882 to 399082 amount 936
+ Transaction from 925883 to 399083 amount 1059
+ Transaction from 925884 to 399084 amount 1182
+
+Succesfully mining block 76
+Block content: Block: timestamp 189821582, prevHash -9223141058926734465, nonce 23906, hash -9223299606429135662
+ Transaction from 938220 to 404396 amount 76
+ Transaction from 938221 to 404397 amount 199
+ Transaction from 938222 to 404398 amount 322
+ Transaction from 938223 to 404399 amount 445
+ Transaction from 938224 to 404400 amount 568
+ Transaction from 938225 to 404401 amount 691
+ Transaction from 938226 to 404402 amount 814
+ Transaction from 938227 to 404403 amount 937
+ Transaction from 938228 to 404404 amount 1060
+ Transaction from 938229 to 404405 amount 1183
+
+Succesfully mining block 77
+Block content: Block: timestamp 189821583, prevHash -9223299606429135662, nonce 115257, hash -9223366104288516523
+ Transaction from 950565 to 409717 amount 77
+ Transaction from 950566 to 409718 amount 200
+ Transaction from 950567 to 409719 amount 323
+ Transaction from 950568 to 409720 amount 446
+ Transaction from 950569 to 409721 amount 569
+ Transaction from 950570 to 409722 amount 692
+ Transaction from 950571 to 409723 amount 815
+ Transaction from 950572 to 409724 amount 938
+ Transaction from 950573 to 409725 amount 1061
+ Transaction from 950574 to 409726 amount 1184
+
+Succesfully mining block 78
+Block content: Block: timestamp 189821584, prevHash -9223366104288516523, nonce 19454, hash -9223159183372198283
+ Transaction from 962910 to 415038 amount 78
+ Transaction from 962911 to 415039 amount 201
+ Transaction from 962912 to 415040 amount 324
+ Transaction from 962913 to 415041 amount 447
+ Transaction from 962914 to 415042 amount 570
+ Transaction from 962915 to 415043 amount 693
+ Transaction from 962916 to 415044 amount 816
+ Transaction from 962917 to 415045 amount 939
+ Transaction from 962918 to 415046 amount 1062
+ Transaction from 962919 to 415047 amount 1185
+
+Succesfully mining block 79
+Block content: Block: timestamp 189821585, prevHash -9223159183372198283, nonce 83685, hash -9223320197428393722
+ Transaction from 975255 to 420359 amount 79
+ Transaction from 975256 to 420360 amount 202
+ Transaction from 975257 to 420361 amount 325
+ Transaction from 975258 to 420362 amount 448
+ Transaction from 975259 to 420363 amount 571
+ Transaction from 975260 to 420364 amount 694
+ Transaction from 975261 to 420365 amount 817
+ Transaction from 975262 to 420366 amount 940
+ Transaction from 975263 to 420367 amount 1063
+ Transaction from 975264 to 420368 amount 1186
+
+Succesfully mining block 80
+Block content: Block: timestamp 189821586, prevHash -9223320197428393722, nonce 14508, hash -9223108996640051550
+ Transaction from 987600 to 425680 amount 80
+ Transaction from 987601 to 425681 amount 203
+ Transaction from 987602 to 425682 amount 326
+ Transaction from 987603 to 425683 amount 449
+ Transaction from 987604 to 425684 amount 572
+ Transaction from 987605 to 425685 amount 695
+ Transaction from 987606 to 425686 amount 818
+ Transaction from 987607 to 425687 amount 941
+ Transaction from 987608 to 425688 amount 1064
+ Transaction from 987609 to 425689 amount 1187
+
+Succesfully mining block 81
+Block content: Block: timestamp 189821587, prevHash -9223108996640051550, nonce 4972, hash -9223338255329061130
+ Transaction from 999945 to 431001 amount 81
+ Transaction from 999946 to 431002 amount 204
+ Transaction from 999947 to 431003 amount 327
+ Transaction from 999948 to 431004 amount 450
+ Transaction from 999949 to 431005 amount 573
+ Transaction from 999950 to 431006 amount 696
+ Transaction from 999951 to 431007 amount 819
+ Transaction from 999952 to 431008 amount 942
+ Transaction from 999953 to 431009 amount 1065
+ Transaction from 999954 to 431010 amount 1188
+
+Succesfully mining block 82
+Block content: Block: timestamp 189821588, prevHash -9223338255329061130, nonce 246057, hash -9223335756721239734
+ Transaction from 1012290 to 436322 amount 82
+ Transaction from 1012291 to 436323 amount 205
+ Transaction from 1012292 to 436324 amount 328
+ Transaction from 1012293 to 436325 amount 451
+ Transaction from 1012294 to 436326 amount 574
+ Transaction from 1012295 to 436327 amount 697
+ Transaction from 1012296 to 436328 amount 820
+ Transaction from 1012297 to 436329 amount 943
+ Transaction from 1012298 to 436330 amount 1066
+ Transaction from 1012299 to 436331 amount 1189
+
+Succesfully mining block 83
+Block content: Block: timestamp 189821589, prevHash -9223335756721239734, nonce 30716, hash -9223215784167070217
+ Transaction from 1024635 to 441643 amount 83
+ Transaction from 1024636 to 441644 amount 206
+ Transaction from 1024637 to 441645 amount 329
+ Transaction from 1024638 to 441646 amount 452
+ Transaction from 1024639 to 441647 amount 575
+ Transaction from 1024640 to 441648 amount 698
+ Transaction from 1024641 to 441649 amount 821
+ Transaction from 1024642 to 441650 amount 944
+ Transaction from 1024643 to 441651 amount 1067
+ Transaction from 1024644 to 441652 amount 1190
+
+Succesfully mining block 84
+Block content: Block: timestamp 189821590, prevHash -9223215784167070217, nonce 72740, hash -9223356891643793131
+ Transaction from 1036980 to 446964 amount 84
+ Transaction from 1036981 to 446965 amount 207
+ Transaction from 1036982 to 446966 amount 330
+ Transaction from 1036983 to 446967 amount 453
+ Transaction from 1036984 to 446968 amount 576
+ Transaction from 1036985 to 446969 amount 699
+ Transaction from 1036986 to 446970 amount 822
+ Transaction from 1036987 to 446971 amount 945
+ Transaction from 1036988 to 446972 amount 1068
+ Transaction from 1036989 to 446973 amount 1191
+
+Succesfully mining block 85
+Block content: Block: timestamp 189821591, prevHash -9223356891643793131, nonce 99537, hash -9223302939161228753
+ Transaction from 1049325 to 452285 amount 85
+ Transaction from 1049326 to 452286 amount 208
+ Transaction from 1049327 to 452287 amount 331
+ Transaction from 1049328 to 452288 amount 454
+ Transaction from 1049329 to 452289 amount 577
+ Transaction from 1049330 to 452290 amount 700
+ Transaction from 1049331 to 452291 amount 823
+ Transaction from 1049332 to 452292 amount 946
+ Transaction from 1049333 to 452293 amount 1069
+ Transaction from 1049334 to 452294 amount 1192
+
+Succesfully mining block 86
+Block content: Block: timestamp 189821592, prevHash -9223302939161228753, nonce 11018, hash -9223364030868561094
+ Transaction from 1061670 to 457606 amount 86
+ Transaction from 1061671 to 457607 amount 209
+ Transaction from 1061672 to 457608 amount 332
+ Transaction from 1061673 to 457609 amount 455
+ Transaction from 1061674 to 457610 amount 578
+ Transaction from 1061675 to 457611 amount 701
+ Transaction from 1061676 to 457612 amount 824
+ Transaction from 1061677 to 457613 amount 947
+ Transaction from 1061678 to 457614 amount 1070
+ Transaction from 1061679 to 457615 amount 1193
+
+Succesfully mining block 87
+Block content: Block: timestamp 189821593, prevHash -9223364030868561094, nonce 243162, hash -9223256642487153861
+ Transaction from 1074015 to 462927 amount 87
+ Transaction from 1074016 to 462928 amount 210
+ Transaction from 1074017 to 462929 amount 333
+ Transaction from 1074018 to 462930 amount 456
+ Transaction from 1074019 to 462931 amount 579
+ Transaction from 1074020 to 462932 amount 702
+ Transaction from 1074021 to 462933 amount 825
+ Transaction from 1074022 to 462934 amount 948
+ Transaction from 1074023 to 462935 amount 1071
+ Transaction from 1074024 to 462936 amount 1194
+
+Succesfully mining block 88
+Block content: Block: timestamp 189821594, prevHash -9223256642487153861, nonce 136699, hash -9223241852591915630
+ Transaction from 1086360 to 468248 amount 88
+ Transaction from 1086361 to 468249 amount 211
+ Transaction from 1086362 to 468250 amount 334
+ Transaction from 1086363 to 468251 amount 457
+ Transaction from 1086364 to 468252 amount 580
+ Transaction from 1086365 to 468253 amount 703
+ Transaction from 1086366 to 468254 amount 826
+ Transaction from 1086367 to 468255 amount 949
+ Transaction from 1086368 to 468256 amount 1072
+ Transaction from 1086369 to 468257 amount 1195
+
+Succesfully mining block 89
+Block content: Block: timestamp 189821595, prevHash -9223241852591915630, nonce 13251, hash -9223164144940627384
+ Transaction from 1098705 to 473569 amount 89
+ Transaction from 1098706 to 473570 amount 212
+ Transaction from 1098707 to 473571 amount 335
+ Transaction from 1098708 to 473572 amount 458
+ Transaction from 1098709 to 473573 amount 581
+ Transaction from 1098710 to 473574 amount 704
+ Transaction from 1098711 to 473575 amount 827
+ Transaction from 1098712 to 473576 amount 950
+ Transaction from 1098713 to 473577 amount 1073
+ Transaction from 1098714 to 473578 amount 1196
+
+Succesfully mining block 90
+Block content: Block: timestamp 189821596, prevHash -9223164144940627384, nonce 3784, hash -9223183908204063952
+ Transaction from 1111050 to 478890 amount 90
+ Transaction from 1111051 to 478891 amount 213
+ Transaction from 1111052 to 478892 amount 336
+ Transaction from 1111053 to 478893 amount 459
+ Transaction from 1111054 to 478894 amount 582
+ Transaction from 1111055 to 478895 amount 705
+ Transaction from 1111056 to 478896 amount 828
+ Transaction from 1111057 to 478897 amount 951
+ Transaction from 1111058 to 478898 amount 1074
+ Transaction from 1111059 to 478899 amount 1197
+
+Succesfully mining block 91
+Block content: Block: timestamp 189821597, prevHash -9223183908204063952, nonce 48266, hash -9223219670503110721
+ Transaction from 1123395 to 484211 amount 91
+ Transaction from 1123396 to 484212 amount 214
+ Transaction from 1123397 to 484213 amount 337
+ Transaction from 1123398 to 484214 amount 460
+ Transaction from 1123399 to 484215 amount 583
+ Transaction from 1123400 to 484216 amount 706
+ Transaction from 1123401 to 484217 amount 829
+ Transaction from 1123402 to 484218 amount 952
+ Transaction from 1123403 to 484219 amount 1075
+ Transaction from 1123404 to 484220 amount 1198
+
+Succesfully mining block 92
+Block content: Block: timestamp 189821598, prevHash -9223219670503110721, nonce 14995, hash -9223246765299016666
+ Transaction from 1135740 to 489532 amount 92
+ Transaction from 1135741 to 489533 amount 215
+ Transaction from 1135742 to 489534 amount 338
+ Transaction from 1135743 to 489535 amount 461
+ Transaction from 1135744 to 489536 amount 584
+ Transaction from 1135745 to 489537 amount 707
+ Transaction from 1135746 to 489538 amount 830
+ Transaction from 1135747 to 489539 amount 953
+ Transaction from 1135748 to 489540 amount 1076
+ Transaction from 1135749 to 489541 amount 1199
+
+Succesfully mining block 93
+Block content: Block: timestamp 189821599, prevHash -9223246765299016666, nonce 152785, hash -9223298292582731193
+ Transaction from 1148085 to 494853 amount 93
+ Transaction from 1148086 to 494854 amount 216
+ Transaction from 1148087 to 494855 amount 339
+ Transaction from 1148088 to 494856 amount 462
+ Transaction from 1148089 to 494857 amount 585
+ Transaction from 1148090 to 494858 amount 708
+ Transaction from 1148091 to 494859 amount 831
+ Transaction from 1148092 to 494860 amount 954
+ Transaction from 1148093 to 494861 amount 1077
+ Transaction from 1148094 to 494862 amount 1200
+
+Succesfully mining block 94
+Block content: Block: timestamp 189821600, prevHash -9223298292582731193, nonce 26899, hash -9223152760593203490
+ Transaction from 1160430 to 500174 amount 94
+ Transaction from 1160431 to 500175 amount 217
+ Transaction from 1160432 to 500176 amount 340
+ Transaction from 1160433 to 500177 amount 463
+ Transaction from 1160434 to 500178 amount 586
+ Transaction from 1160435 to 500179 amount 709
+ Transaction from 1160436 to 500180 amount 832
+ Transaction from 1160437 to 500181 amount 955
+ Transaction from 1160438 to 500182 amount 1078
+ Transaction from 1160439 to 500183 amount 1201
+
+Succesfully mining block 95
+Block content: Block: timestamp 189821601, prevHash -9223152760593203490, nonce 47512, hash -9223275952442566826
+ Transaction from 1172775 to 505495 amount 95
+ Transaction from 1172776 to 505496 amount 218
+ Transaction from 1172777 to 505497 amount 341
+ Transaction from 1172778 to 505498 amount 464
+ Transaction from 1172779 to 505499 amount 587
+ Transaction from 1172780 to 505500 amount 710
+ Transaction from 1172781 to 505501 amount 833
+ Transaction from 1172782 to 505502 amount 956
+ Transaction from 1172783 to 505503 amount 1079
+ Transaction from 1172784 to 505504 amount 1202
+
+Succesfully mining block 96
+Block content: Block: timestamp 189821602, prevHash -9223275952442566826, nonce 115415, hash -9223190573120741780
+ Transaction from 1185120 to 510816 amount 96
+ Transaction from 1185121 to 510817 amount 219
+ Transaction from 1185122 to 510818 amount 342
+ Transaction from 1185123 to 510819 amount 465
+ Transaction from 1185124 to 510820 amount 588
+ Transaction from 1185125 to 510821 amount 711
+ Transaction from 1185126 to 510822 amount 834
+ Transaction from 1185127 to 510823 amount 957
+ Transaction from 1185128 to 510824 amount 1080
+ Transaction from 1185129 to 510825 amount 1203
+
+Succesfully mining block 97
+Block content: Block: timestamp 189821603, prevHash -9223190573120741780, nonce 122637, hash -9223113266876195443
+ Transaction from 1197465 to 516137 amount 97
+ Transaction from 1197466 to 516138 amount 220
+ Transaction from 1197467 to 516139 amount 343
+ Transaction from 1197468 to 516140 amount 466
+ Transaction from 1197469 to 516141 amount 589
+ Transaction from 1197470 to 516142 amount 712
+ Transaction from 1197471 to 516143 amount 835
+ Transaction from 1197472 to 516144 amount 958
+ Transaction from 1197473 to 516145 amount 1081
+ Transaction from 1197474 to 516146 amount 1204
+
+Succesfully mining block 98
+Block content: Block: timestamp 189821604, prevHash -9223113266876195443, nonce 10785, hash -9223241737818458636
+ Transaction from 1209810 to 521458 amount 98
+ Transaction from 1209811 to 521459 amount 221
+ Transaction from 1209812 to 521460 amount 344
+ Transaction from 1209813 to 521461 amount 467
+ Transaction from 1209814 to 521462 amount 590
+ Transaction from 1209815 to 521463 amount 713
+ Transaction from 1209816 to 521464 amount 836
+ Transaction from 1209817 to 521465 amount 959
+ Transaction from 1209818 to 521466 amount 1082
+ Transaction from 1209819 to 521467 amount 1205
+
+Succesfully mining block 99
+Block content: Block: timestamp 189821605, prevHash -9223241737818458636, nonce 139412, hash -9223108769375809883
+ Transaction from 1222155 to 526779 amount 99
+ Transaction from 1222156 to 526780 amount 222
+ Transaction from 1222157 to 526781 amount 345
+ Transaction from 1222158 to 526782 amount 468
+ Transaction from 1222159 to 526783 amount 591
+ Transaction from 1222160 to 526784 amount 714
+ Transaction from 1222161 to 526785 amount 837
+ Transaction from 1222162 to 526786 amount 960
+ Transaction from 1222163 to 526787 amount 1083
+ Transaction from 1222164 to 526788 amount 1206
+
+Blockchain is valid? true
+Transaction: Transaction from 1111052 to 478892 amount 336 is in blockchain? true
+Transaction: Transaction from 100 to 200 amount 300 is in blockchain? false
+Which block is invalid? 0
+Which block is invalid? -1
+Which block is invalid? 99
+Which block is invalid? -1
+Which block is invalid? 88
+Which block is invalid? 89
