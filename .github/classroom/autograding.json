@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "Test1",
+      "setup": "",
+      "run": "cp test/blockchain/Test1.java src/blockchain/ && cd src/blockchain && javac -d . *.java && java blockchain.Test1 > out.txt && diff out.txt ../../out/Test1.txt",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 95
+    },
+    {
+      "name": "Test2",
+      "setup": "",
+      "run": "cp test/blockchain/Test2.java src/blockchain/ && cd src/blockchain && javac -d . *.java && java blockchain.Test2 > out.txt && diff out.txt ../../out/Test2.txt",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 95
+    },
+    {
+      "name": "Test3",
+      "setup": "",
+      "run": "cp test/blockchain/Test3.java src/blockchain/ && cd src/blockchain && javac -d . *.java && java blockchain.Test3 > out.txt && diff out.txt ../../out/Test3.txt",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 95
+    },
+    {
+      "name": "Test4",
+      "setup": "",
+      "run": "cp test/blockchain/Test4.java src/blockchain/ && cd src/blockchain && javac -d . *.java && java blockchain.Test4 > out.txt && diff out.txt ../../out/Test4.txt",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 95
+    },
+    {
+      "name": "Test5",
+      "setup": "",
+      "run": "cp test/blockchain/Test5.java src/blockchain/ && cd src/blockchain && javac -d . *.java && java blockchain.Test5 > out.txt && diff out.txt ../../out/Test5.txt",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 95
+    },
+    {
+      "name": "Test6",
+      "setup": "",
+      "run": "cp test/blockchain/Test6.java src/blockchain/ && cd src/blockchain && javac -d . *.java && java blockchain.Test6 > out.txt && diff out.txt ../../out/Test6.txt",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 95
+    },
+    {
+      "name": "Test7",
+      "setup": "",
+      "run": "cp test/blockchain/Test7.java src/blockchain/ && cd src/blockchain && javac -d . *.java && java blockchain.Test7 > out.txt && diff out.txt ../../out/Test7.txt",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 95
+    },
+    {
+      "name": "Test8",
+      "setup": "",
+      "run": "cp test/blockchain/Test8.java src/blockchain/ && cd src/blockchain && javac -d . *.java && java blockchain.Test8 > out.txt && diff out.txt ../../out/Test8.txt",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 95
+    },
+    {
+      "name": "Test9",
+      "setup": "",
+      "run": "cp test/blockchain/Test9.java src/blockchain/ && cd src/blockchain && javac -d . *.java && java blockchain.Test9 > out.txt && diff out.txt ../../out/Test9.txt",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 95
+    },
+    {
+      "name": "Test10",
+      "setup": "",
+      "run": "cp test/blockchain/Test10.java src/blockchain/ && cd src/blockchain && javac -d . *.java && java blockchain.Test10 > out.txt && diff out.txt ../../out/Test10.txt",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 95
+    }
+  ]
+}
