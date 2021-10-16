@@ -16,15 +16,14 @@ public class Block {
     private long hash;
     private long nonce;
     private Transaction[] transactions = new Transaction[10];
-    private int currentIndex = 0;// กำหนดตำแหน่งindexเริ่มจาก0
+    private int currentIndex = 0;
     private boolean isGenesis = false;
 
-    public Block(long timestamp) { // Genesis Block
-        this.timestamp = timestamp;// timestamp คือ parameter;
-        isGenesis = true;
-    }// Conductor มี่ชื่อเหมือนคลาส
+    public Block(long timestamp) {
+        this.timestamp = timestamp;
+    }
 
-    public Block(long timestamp, long prevHash) {// Non-Genesis Block
+    public Block(long timestamp, long prevHash) {
         this.timestamp = timestamp;
         this.prevHash = prevHash;
     }
@@ -48,9 +47,8 @@ public class Block {
         return hash;
     }
 
-    public void addTransaction(Transaction tx) {// addtransaction current indexเริ่มต้นเป็น0
-                                                // อันดับแรกของอาเรย์รับtransaction จากtest
-        this.transactions[currentIndex] = tx;// =ชี้ตำแหน่งtransaction ตัวcurrentindexเป็นตำแหน่งarrayในปัจจุบัน
+    public void addTransaction(Transaction tx) {
+        this.transactions[currentIndex] = tx;
         currentIndex++;
     }
 
@@ -62,23 +60,17 @@ public class Block {
         return currentIndex;
     }
 
-    // Assume all txs are filled
-    public void mine(long difficulty) {// method mineทำงานก้ต่อเมื่อ current indexมีค่าcurrent index=10;
+    public void mine(long difficulty) {
         long result;
-        long transactionSummery = 0;// public void mine เป้าหมายต้องการหาค่าnounceที่ทำให้สมการเปนจริง
-                                    // สมการที่ว่าหาผลรวมsender id ,receiver id,amountของtransaction+nounce
-                                    // timestampของblockแล้วจะมีค่าน้อยกว่าdifficulty
-        long currentNonce = -999999999;// ค่าcurrentNounceตั้งค่าติดลบที่น้อยที่สุดเท่าที่มีได้
+        long transactionSummery = 0;
+        long currentNonce = -999999999;
 
-        for (Transaction tran : transactions) {// หาผลรวมของsenderid receiverid
-                                               // amount;พอได้ผลรวมแล้วก็จะเอาผลรวมไปคิดในสมการต่อในloop do while;
+        for (Transaction tran : transactions) {
             transactionSummery = transactionSummery + tran.getAmount() + tran.getReceiverId() + tran.getSenderId();
         }
-        do {// เอาผลรวมมาบวกค่าnounce,timestamp,แล้วเอาผลรวมส่งไปให้hash
-            // ถ้าผลลัพธ์ยังไม่น้อยกว่าdifficulty
-            // มันก็จะทำต่อไปโดยnounceจะเพิ่มขึ้น1;จนกว่าค่าhashจะน้อยกว่าdifficulty
+        do {
             result = currentNonce + timestamp + transactionSummery;
-            this.nonce = currentNonce;// currentnounceเป็นส่วนนึงของสมการที่มีจำนวนที่เพื่มขึ้นเรื่อยๆตามloopจนกว่ามันจะหลุดลูปทำให้สมการด้านบนเปนจิง
+            this.nonce = currentNonce;
             currentNonce++;
             this.hash = hash(result);
         } while (this.hash >= difficulty);
