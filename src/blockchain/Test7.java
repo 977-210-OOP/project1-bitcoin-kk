@@ -1,5 +1,6 @@
 package blockchain;
 
+// Test append/firstInvalidBlock
 public class Test7 {
 
     public static int NUM_TXS = 10;
@@ -19,7 +20,7 @@ public class Test7 {
 
         for (int i = 0; i < numBlock; i++) {
             if (i == 0) {
-
+                // First block (genesis block)
                 bs[0] = new Block(baseTs);
             } else {
                 bs[i] = new Block(baseTs + i, bs[i - 1].getHash());
@@ -40,15 +41,18 @@ public class Test7 {
     public static void main(String[] args) {
         Block[] bs = genBlocks(5);
 
+        // Create a blockchain and fill with 5 blocks
         BlockChain bc = new BlockChain();
         for (int i = 0; i < 5; i++) {
             bc.append(bs[i]);
         }
 
+        // All blocks should be valid
         if (bc.firstInvalidBlock() != -1)
             return;
         System.out.println("Pass checkpoint 1");
 
+        // invalid chaining
         Block b = new Block(55555, bs[1].getHash());
         Transaction[] txs = genTxs(6);
         for (int j = 0; j < NUM_TXS; j++) {
@@ -57,6 +61,9 @@ public class Test7 {
         b.mine(0xff);
         bc.append(b);
 
+        // The last block should be invalid because
+        // it does not chain with the fourth block
+        // even though mining is done correctly
         if (bc.firstInvalidBlock() != 5)
             return;
         System.out.println("Pass checkpoint 2");
