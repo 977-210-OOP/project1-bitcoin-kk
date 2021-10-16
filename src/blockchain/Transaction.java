@@ -12,9 +12,9 @@ public class Transaction {
     private long amount;
 
     public Transaction(long sender, long receiver, long amount) {
-        this.senderId = sender;// id ของผู้ส่ง
-        this.receiverId = receiver;// id ของผู้รับ
-        this.amount = amount;// จำนวนเงิน
+        this.senderId = sender;
+        this.receiverId = receiver;
+        this.amount = amount;
     }
 
     public long getSenderId() {
