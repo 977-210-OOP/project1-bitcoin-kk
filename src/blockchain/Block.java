@@ -5,6 +5,8 @@ import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.util.ArrayList;
 
+import javax.sql.rowset.spi.TransactionalWriter;
+
 public class Block {
 
     private long timestamp;
@@ -61,8 +63,9 @@ public class Block {
         long transactionSummery = 0;
         long currentNonce = -999999999;
 
-        for (Transaction tran : transactions) {
-            transactionSummery = transactionSummery + tran.getAmount() + tran.getReceiverId() + tran.getSenderId();
+        for (int i = 0; i < currentIndex; i++) {
+            transactionSummery = transactionSummery + transactions[i].getAmount() + transactions[i].getReceiverId()
+                    + transactions[i].getSenderId();
         }
         do {
             result = currentNonce + timestamp + transactionSummery;
@@ -75,8 +78,9 @@ public class Block {
     public boolean isValid() {
         long result = 0;
         long transactionSummery = 0;
-        for (Transaction tran : transactions) {
-            transactionSummery = transactionSummery + tran.getAmount() + tran.getReceiverId() + tran.getSenderId();
+        for (int i = 0; i < currentIndex; i++) {
+            transactionSummery = transactionSummery + transactions[i].getAmount() + transactions[i].getReceiverId()
+                    + transactions[i].getSenderId();
         }
         result = this.nonce + timestamp + transactionSummery;
 

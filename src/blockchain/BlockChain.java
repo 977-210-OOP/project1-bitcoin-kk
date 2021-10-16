@@ -22,27 +22,24 @@ public class BlockChain {
     }
 
     public int firstInvalidBlock() {
-        int index = 0;
+
         long currentPrevHash = 0;
 
-        for (Block block : blocks) {
-            if (!(block.isValid())) {
-                return index;
+        for (int i = 0; i < currentIndex; i++) {
+            if (!(blocks[i].isValid())) {
+                return i;
             }
-            if (index == 0) {
-                if (block.getPrevHash() != 0) {
-                    return index;
+            if (i == 0) {
+                if (blocks[i].getPrevHash() != 0) {
+                    return i;
                 }
-
             } else {
-
-                if (block.getPrevHash() != currentPrevHash) {
-                    return index;
+                if (blocks[i].getPrevHash() != currentPrevHash) {
+                    return i;
                 }
-
             }
-            index++;
-            currentPrevHash = block.getHash();
+            currentPrevHash = blocks[i].getHash();
+
         }
         return -1;
     }
@@ -51,10 +48,10 @@ public class BlockChain {
         if (firstInvalidBlock() != -1) {
             return false;
         }
-        for (Block block : blocks) {
-            int lenght = block.getTransactionLenght();
-            for (int i = 0; i < lenght; i++) {
-                Transaction currentTran = block.getTransaction(i);
+        for (int i = 0; i < currentIndex; i++) {
+            int lenght = blocks[i].getTransactionLenght();
+            for (int j = 0; j < lenght; j++) {
+                Transaction currentTran = blocks[i].getTransaction(j);
                 if (tx.getReceiverId() == currentTran.getReceiverId() && tx.getSenderId() == currentTran.getSenderId()
                         && tx.getAmount() == currentTran.getAmount()) {
                     return true;
